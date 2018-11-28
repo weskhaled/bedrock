@@ -17,3 +17,12 @@ web/.htaccess
 
 # Composer
 /vendor
+
+#theme dynamix
+!web/app/themes/dynamix
+web/app/themes/dynamix/dist
+web/app/themes/dynamix/node_modules
+web/app/themes/dynamix/npm-debug.log
+web/app/themes/dynamix/yarn-error.log
+web/app/themes/dynamix/vendor
+web/app/themes/dynamix/resources/assets/config-local.json
